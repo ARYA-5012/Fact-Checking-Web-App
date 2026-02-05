@@ -127,3 +127,7 @@ MIT License - feel free to use this project for any purpose.
 ---
 
 Built with ❤️ using [Streamlit](https://streamlit.io), [OpenRouter](https://openrouter.ai), and [Tavily](https://tavily.com)
+
+## 👨‍💻 Author
+
+**ARYA YADAV**
