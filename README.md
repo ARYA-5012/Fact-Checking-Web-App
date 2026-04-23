@@ -22,7 +22,9 @@ A web application that automatically verifies claims from PDF documents against 
 
 ## 🚀 Live Demo
 
-**Deployed App**: [Fact Checker App](https://fact-checker-app.streamlit.app/)
+👉 **Try it here**:  
+https://fact-checking-web-app-tcxkcsknovj2aw6ttnh459.streamlit.app/111111
+
 ## 🔧 How It Works
 
 ```
