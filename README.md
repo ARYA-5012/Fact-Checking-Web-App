@@ -19,10 +19,10 @@ A web application that automatically verifies claims from PDF documents against 
 - **Source Citations**: Provides source URLs for every verification
 - **Downloadable Reports**: Export results as JSON
 
+
 ## 🚀 Live Demo
 
-**Deployed App**: [https://fact-checking-web-app-tcxkcsknovj2aw6ttnh459.streamlit.app/]([https://fact-checker-app.streamlit.app])
-
+**Deployed App**: [Fact Checker App](https://fact-checker-app.streamlit.app/)
 ## 🔧 How It Works
 
 ```
